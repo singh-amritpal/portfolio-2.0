@@ -2,6 +2,10 @@
   "name": "portfolio-2.0",
   "version": "1.0.0",
   "description": "Amritpal's Website",
+  "engines": {
+    "node": "17.7.2",
+    "npm": "8.5.2"
+  },
   "scripts": {
     "dev": "next dev -H 0.0.0.0",
     "build": "next build",
